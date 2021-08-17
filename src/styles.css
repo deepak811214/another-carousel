@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  overflow: hidden;
+}
+
+.content {
+  padding: 100px;
+  border: 1px solid;
+  margin-right: 10px;
+}
+
+.carousel {
+  width: 300px;
+}
